@@ -2,4 +2,5 @@
 Collection of numpy exercises from numpy mailing list, stack overflow, and numpy documentation.
 :writing_hand: from https://github.com/rougier/numpy-100
 ---
-updating as i finish the exercise one by one
+Updating as i finish the exercise one by one
+---
