@@ -1,4 +1,4 @@
-# Some excercises from 100-Numpy-Exercises by Rougier
+# Some exercises from 100-Numpy-Exercises by Rougier
 Collection of numpy exercises from numpy mailing list, stack overflow, and numpy documentation.
 :writing_hand: from https://github.com/rougier/numpy-100
 ---
